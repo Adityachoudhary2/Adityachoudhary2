@@ -1,7 +1,4 @@
-![Black and White Simple Art Director LinkedIn Banner]()
 
-
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h1 align="center">Hi 👋, I'm Aditya Choudhary</h1>
 <h3 align="center">A passionate full stack web developer</h3>
