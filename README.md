@@ -36,7 +36,7 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ojaschikara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Adityachoudhary2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
