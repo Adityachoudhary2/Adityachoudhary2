@@ -12,7 +12,7 @@
 🤓 Always learning new things.
 <br>
 <br>
-🤔 Check Out my <a href="[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1OF9I7nDSlqMmuZATibMesomZvKGSXEDF/view?usp=sharing)" style="color: rgb(211, 28, 255);">Resume</a>
+🤔 Check Out my <a href="https://drive.google.com/file/d/1OF9I7nDSlqMmuZATibMesomZvKGSXEDF/view" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>
 👨‍💻 Know more about me <a href="https://portfolio-choudharyaditya9381-gmailcoms-projects.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br><br>
